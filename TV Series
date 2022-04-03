@@ -1,0 +1,110 @@
+#EXTM3U
+
+--------------------- Mechamato -----------------------
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fd6a5fa937be84714ea60fe750759110&key=21414d9acec7d49b6a72d907cfd6cb4e
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/681785fe-882e-5c82-b5f9-41a5bff3f09b/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=75dba07ec7b5e13b136b7c3c2f607b10&key=7259d1d2d58b4194edb21bf5d7e7af01
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/c41eb52d-51c5-5534-84d5-a6d3245c7409/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f5877573c0a27ffb05f31bf0a109f010&key=9997d41f0cd34bf5edcbaf7642a52dbb
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/47c704ba-0f07-542f-8b95-9a863c55f7c4/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bedcc8d51cf835b3ed02f71c29330f10&key=e7496270f5d149a65cce481febbadacd
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/cc557c36-8ea3-5abc-befc-7935d4923c75/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3cc677dbdf5dc814d4f913252b134710&key=72a3d022e95295490783ce31016dff54
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/7c4cbaac-48bc-51c5-820f-c980fc063328/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0be78d54e17507b4b682ab8884ab3410&key=8e43577a7d37601d452cf6deed212a49
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/e4329b85-7589-5447-a41a-d4dc843b912b/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 07
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=df9a1892fd434c5b796db11a4bd93210&key=e8004875405f8c791686bd5949188c1d
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/e884fd91-9330-5e1b-8e64-3d564ab02d46/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 08
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a3439af12a9ad787471fc882c30ff510&key=af61f39050ad478c8bf94fb79665612c
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/fe0c57e2-a415-5f51-b951-cfb4074dc9e0/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 09
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=201e6a386cf261dc751d1b199fd3dc10&key=6529011569312498cf6607f6da8796d2
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/c52278ef-8b13-5335-944b-13938ea6bcf9/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5d77df762846210d4018997c22bdaf10&key=aecf0166e397f1dbb8cb140cd7fb2d66
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/e98f663b-31c2-5f4f-b3e4-91d945215dad/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d2652e7ccde49ce32bcadb606f325c10&key=bbe39a8d46b772df7ac277c90e4583c3
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/12cf0fb3-1525-550e-b0b3-13252beca56f/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfd4675ab8054355df57561bd4fa4310&key=8593d08fa35c9e4eeb0ec5a04d20f416
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/c0e1b945-2778-5416-a77e-ce9e9547827a/default_ott.mpd
+
+#EXTINF:-1 group-title="Mechamato" tvg-logo="https://bit.ly/3LnUJxj",Mechamato EP 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=77bfeb67027749d274b8a86e0e4a1410&key=9dbb008b9f0637a2dddc7b812bc99d8d
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/2b89bc1b-6abc-50a5-b60d-df26c1eb56ee/default_ott.mpd
+
+--------------------- Pok Ya Cong Codei Memburu Siti -----------------------
+
+#EXTINF:-1 group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0b58150fee7057894c46c19f2b6d2410&key=73576760115cf6ad6d340b344f96b40e
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/db90e768-717d-5517-9a33-58e98fd8445e/default_ott.mpd
+
+#EXTINF:-1 group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=645287d85e46b1912dee8a5a0d025410&key=fd2a07c39f5c47be3fa445beb16584fe
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/c9d665b8-e235-5777-b927-f2f336ec11b4/default_ott.mpd
+
+#EXTINF:-1 group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c6d2786f0a8b82c90c87acf709837210&key=aec9cc645012fdca9dc1f41895f8244e
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/0a7774e0-e77c-5bc7-bd89-266d4529a8f8/default_ott.mpd
+
+#EXTINF:-1 group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c9aa8ef50ac27284ed142624e8122d10&key=20cd0ec955e0a661dea81cad54f2454a
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/87e61f8c-a2f7-5cdb-ae39-9974475a05be/default_ott.mpd
+
+#EXTINF:-1 group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d1fc9863653dd7d8735d96c211b90310&key=d09dd95e42d8238eb7b8bc60a5b82399
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/605e87f9-d1a3-5373-b774-8d95ec54ccde/default_ott.mpd
+
+#EXTINF:-1 group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6fa92f7fdc60439792e226fd105e9810&key=94343e243de90e07f024769ee734da7d
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/4e08fb77-cd80-523a-833b-a028b4f09375/default_ott.mpd
+
+#EXTINF:-1 group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 07
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b6824f13c8c664591705ef1a3b281010&key=3aac52218f23aa331f705354ecf355fe
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/a64439b8-0c8b-587a-a6a2-c996a11ca2a9/default_ott.mpd
+
+#EXTINF:-1 group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 08
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=601472e2329ebf8f759c49dbc94a0410&key=fcaf8b22d555aba371fc5f5480e8d4f7
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/aeb2f620-f41b-5429-baab-13c762de7b2a/default_ott.mpd
