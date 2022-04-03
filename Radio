@@ -1,0 +1,36 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:0, tvg-id="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-name="Sinar FM",Sinar FM
+http://astro2.rastream.com/sinar?type=.flv
+
+#EXTINF:0, tvg-id="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-name="Gegar",Gegar
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:0, tvg-id="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-name="Era FM",Era FM
+http://astro2.rastream.com/era?type=.flv
+
+#EXTINF:0, tvg-id="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" tvg-name="Hitz FM",Hitz FM
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://www.tonton.com.my/_nuxt/img/4057ddf.png" tvg-name="Hot FM",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://www.tonton.com.my/_nuxt/img/19d03e7.png" tvg-name="Buletin FM",Buletin FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.tonton.com.my/_nuxt/img/c7ad511.png",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN" tvg-name="Suria FM",Suria FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?DIST=TuneIn
+
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://bapakku.fm/images/logotext.png" tvg-name="Bapakku FM",Bapakku FM
+http://radio.bapakku.fm:8000
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
