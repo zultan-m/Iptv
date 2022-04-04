@@ -108,8 +108,3 @@ https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/a64439b8-0c8b-587a-a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=601472e2329ebf8f759c49dbc94a0410&key=fcaf8b22d555aba371fc5f5480e8d4f7
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/aeb2f620-f41b-5429-baab-13c762de7b2a/default_ott.mpd
-
-#EXTINF:-1 group-title="HBO GO" tvg-logo="https://bit.ly/3LnUJxj",RAIDERS OF THE LOST ARK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c01f5a33997e59888f9b574b520cf0c6&key=230718f3249b669ad90f0fff6585532c
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60e2ff7216b55f4d9350594d_hbovodhd/dash0/MYS_index.mpd
